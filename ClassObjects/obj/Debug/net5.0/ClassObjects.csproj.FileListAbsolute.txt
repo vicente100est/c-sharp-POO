@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.exe
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.deps.json
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.runtimeconfig.json
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.dll
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ref\ClassObjects.dll
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\bin\Debug\net5.0\ClassObjects.pdb
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.AssemblyInfo.cs
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.dll
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ref\ClassObjects.dll
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.pdb
+C:\Users\vicen\source\repos\CSPOO\ClassObjects\obj\Debug\net5.0\ClassObjects.genruntimeconfig.cache

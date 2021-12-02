@@ -1,0 +1,16 @@
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.exe
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.deps.json
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.json
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.runtimeconfig.dev.json
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.dll
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\bin\Debug\net5.0\Sobreescritura.pdb
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.AssemblyReference.cache
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfoInputs.cache
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.AssemblyInfo.cs
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.csproj.CoreCompileInputs.cache
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.dll
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\ref\Sobreescritura.dll
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.pdb
+C:\Users\vicen\source\repos\CSPOO\Sobreescritura\obj\Debug\net5.0\Sobreescritura.genruntimeconfig.cache
